@@ -1,5 +1,5 @@
-foo:
+whee:
   test.nop
 
-bar:
+whoo:
   test.nop
