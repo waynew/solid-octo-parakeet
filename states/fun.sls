@@ -1,5 +1,5 @@
 foo:
-  bar:
-    - bang
-    - quux
-    - quintuples
+  test.nop
+
+bar:
+  test.nop
